@@ -1,6 +1,12 @@
 package programacionModular;
 
+<<<<<<< HEAD
 // CHANGED BY mgi007
+=======
+//////////////////////////////////////
+// BLUGNESBLUG MANIGGGAAAAAAAAAAAAAA!
+//////////////////////////////////////
+>>>>>>> e6e05c4152603601c2bc373cc5fd0223d2f80605
 
 import java.util.Scanner;
 
