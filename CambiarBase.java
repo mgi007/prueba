@@ -1,6 +1,10 @@
 package programacionModular;
 
+<<<<<<< HEAD
 // EDITED BY MIGUEL
+=======
+// EDITADO BY MIGGUEL MAKUTOK
+>>>>>>> 5c98d9f88a60a6acf5826abf42a3b4dd96712912
 
 import com.sun.xml.internal.stream.Entity;
 
