@@ -1,5 +1,9 @@
 package programacionModular;
 
+//////////////////////////////////////
+// BLUGNESBLUG MANIGGGAAAAAAAAAAAAAA!
+//////////////////////////////////////
+
 import java.util.Scanner;
 
 public class Fecha {
