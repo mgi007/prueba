@@ -1,5 +1,7 @@
 package programacionModular;
 
+// EDITED BY MIGUEL
+
 import com.sun.xml.internal.stream.Entity;
 
 import java.util.Scanner;
